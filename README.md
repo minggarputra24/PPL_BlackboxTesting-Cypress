@@ -5,4 +5,6 @@
 - Prodi      : D-IV Teknik Informatika 
 - Kelas      : TI - 3A 
 - Matakuliah : Pendekatan Pengujian Perangkat Lunak
-- Topik      : Blackbox Testing - Web ngx-cypress-test \n
+- Topik      : Blackbox Testing - Web ngx-cypress-test
+
+# The Original Repo is Here : https://github.com/akveo/ngx-admin
