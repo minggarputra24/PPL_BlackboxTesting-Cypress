@@ -1,7 +1,7 @@
 # PPL_BlackboxTesting-Cypress
-Nama       : Minggar Putra Dhea Ramadhan
-NIM        : 1841720111
-Jurusan    : Teknologi Informasi
-Prodi      : D-IV Teknik Informatika
-Kelas      : TI - 3A
-Topik      : Blackbox Testing - Web ngx-cypress-test
+Nama       : Minggar Putra Dhea Ramadhan \n
+NIM        : 1841720111 \n
+Jurusan    : Teknologi Informasi \n
+Prodi      : D-IV Teknik Informatika \n
+Kelas      : TI - 3A \n
+Topik      : Blackbox Testing - Web ngx-cypress-test \n
